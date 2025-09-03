@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "name": "wisata_diy_dummy",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.365,
+          -7.793
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Jalan Malioboro",
+        "tourism": "attraction",
+        "KATEGORI": "Kawasan Belanja",
+        "KABUPATEN": "Kota Yogyakarta",
+        "TIKET_MASUK_RP": 0,
+        "JAM_BUKA": "00:00-24:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3671,
+          -7.7829
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Tugu Yogyakarta",
+        "tourism": "attraction",
+        "KATEGORI": "Landmark",
+        "KABUPATEN": "Kota Yogyakarta",
+        "TIKET_MASUK_RP": 0,
+        "JAM_BUKA": "00:00-24:00",
+        "RATING": 4.7,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364,
+          -7.805
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Kraton Yogyakarta",
+        "tourism": "museum",
+        "KATEGORI": "Sejarah & Budaya",
+        "KABUPATEN": "Kota Yogyakarta",
+        "TIKET_MASUK_RP": 15000,
+        "JAM_BUKA": "08:30-14:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.359,
+          -7.81
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Taman Sari",
+        "tourism": "attraction",
+        "KATEGORI": "Sejarah & Arsitektur",
+        "KABUPATEN": "Kota Yogyakarta",
+        "TIKET_MASUK_RP": 15000,
+        "JAM_BUKA": "09:00-15:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37,
+          -7.8
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Taman Pintar Yogyakarta",
+        "tourism": "museum",
+        "KATEGORI": "Sains & Edukasi",
+        "KABUPATEN": "Kota Yogyakarta",
+        "TIKET_MASUK_RP": 20000,
+        "JAM_BUKA": "08:30-16:00",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.491,
+          -7.752
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Candi Prambanan",
+        "tourism": "attraction",
+        "KATEGORI": "Candi",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 50000,
+        "JAM_BUKA": "06:30-17:00",
+        "RATING": 4.8,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.489,
+          -7.77
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Candi Ratu Boko",
+        "tourism": "attraction",
+        "KATEGORI": "Candi & Sunset",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 40000,
+        "JAM_BUKA": "07:00-17:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.512,
+          -7.7709
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Candi Ijo",
+        "tourism": "attraction",
+        "KATEGORI": "Candi & Viewpoint",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 10000,
+        "JAM_BUKA": "07:00-17:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.513,
+          -7.769
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Tebing Breksi",
+        "tourism": "viewpoint",
+        "KATEGORI": "Geowisata",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 10000,
+        "JAM_BUKA": "07:00-19:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.423,
+          -7.607
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Museum Gunung Merapi",
+        "tourism": "museum",
+        "KATEGORI": "Sains & Geologi",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 10000,
+        "JAM_BUKA": "08:00-15:30",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.457,
+          -7.588
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Lava Tour Merapi (Kaliadem)",
+        "tourism": "attraction",
+        "KATEGORI": "Adventure",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 0,
+        "JAM_BUKA": "07:00-16:30",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.424,
+          -7.582
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Ullen Sentalu Museum",
+        "tourism": "museum",
+        "KATEGORI": "Seni & Budaya",
+        "KABUPATEN": "Sleman",
+        "TIKET_MASUK_RP": 50000,
+        "JAM_BUKA": "09:00-15:30",
+        "RATING": 4.7,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.468,
+          -7.826
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "HeHa Sky View",
+        "tourism": "viewpoint",
+        "KATEGORI": "Kuliner & Panorama",
+        "KABUPATEN": "Gunungkidul",
+        "TIKET_MASUK_RP": 20000,
+        "JAM_BUKA": "10:00-21:00",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.623,
+          -7.951
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Goa Pindul",
+        "tourism": "attraction",
+        "KATEGORI": "Cave Tubing",
+        "KABUPATEN": "Gunungkidul",
+        "TIKET_MASUK_RP": 100000,
+        "JAM_BUKA": "07:00-16:00",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.614,
+          -8.15
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Pantai Indrayanti (Pulang Sawal)",
+        "tourism": "beach",
+        "KATEGORI": "Pantai",
+        "KABUPATEN": "Gunungkidul",
+        "TIKET_MASUK_RP": 10000,
+        "JAM_BUKA": "06:00-18:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5115,
+          -7.7885
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Candi Banyunibo",
+        "tourism": "attraction",
+        "KATEGORI": "Candi",
+        "KABUPATEN": "Gunungkidul",
+        "TIKET_MASUK_RP": 5000,
+        "JAM_BUKA": "07:00-17:00",
+        "RATING": 4.4,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.329,
+          -8.024
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Pantai Parangtritis",
+        "tourism": "beach",
+        "KATEGORI": "Pantai",
+        "KABUPATEN": "Bantul",
+        "TIKET_MASUK_RP": 10000,
+        "JAM_BUKA": "06:00-18:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.422,
+          -7.933
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Hutan Pinus Mangunan",
+        "tourism": "park",
+        "KATEGORI": "Alam & Foto",
+        "KABUPATEN": "Bantul",
+        "TIKET_MASUK_RP": 5000,
+        "JAM_BUKA": "07:00-18:00",
+        "RATING": 4.6,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.44,
+          -7.94
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Bukit Panguk Kediwung",
+        "tourism": "viewpoint",
+        "KATEGORI": "Sunrise & Kabut",
+        "KABUPATEN": "Bantul",
+        "TIKET_MASUK_RP": 5000,
+        "JAM_BUKA": "05:00-17:30",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.135,
+          -7.843
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Kalibiru",
+        "tourism": "viewpoint",
+        "KATEGORI": "Hutan & Panorama",
+        "KABUPATEN": "Kulon Progo",
+        "TIKET_MASUK_RP": 10000,
+        "JAM_BUKA": "08:00-17:00",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.11,
+          -7.83
+        ]
+      },
+      "properties": {
+        "NAMOBJ": "Waduk Sermo",
+        "tourism": "attraction",
+        "KATEGORI": "Waduk & Piknik",
+        "KABUPATEN": "Kulon Progo",
+        "TIKET_MASUK_RP": 5000,
+        "JAM_BUKA": "07:00-17:00",
+        "RATING": 4.5,
+        "SOURCE": "dummy-prototype",
+        "UPDATED_AT": "2025-09-03"
+      }
+    }
+  ]
+}

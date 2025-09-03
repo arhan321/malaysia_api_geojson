@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+geopandas
+geopy
+scikit-learn
+shapely
+pyproj
+fiona
+python-dotenv
+openpyxl
