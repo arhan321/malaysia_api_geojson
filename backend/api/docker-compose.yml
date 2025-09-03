@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  pariwisata-api:
+    build: .
+    container_name: pariwisata-api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - .:/app   # supaya bisa hot-reload kalau develop
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload

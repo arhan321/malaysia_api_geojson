@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+geopandas
+shapely
+geopy
+fiona
+pyproj
+python-dotenv
